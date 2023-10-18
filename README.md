@@ -1,4 +1,4 @@
-# TMapper NuGet Package
+# TMapper
 
 ![apple-touch-icon](https://github.com/JonathanThornander/TMapper/assets/43991450/adb3cd8d-7b79-4c40-867b-7573a1f6cadf)
 
