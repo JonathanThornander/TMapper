@@ -4,7 +4,7 @@
 
 **Overview:**
 
-TMapper is a lightweight, strongly-typed mapping library designed to simplify the process of mapping objects from one type to another. It provides an easy-to-use interface for asynchronous type mapping, with a focus on performance and simplicity.
+TMapper is a lightweight, strongly-typed mapping (Nuget) library for .NET designed to simplify the process of mapping objects from one type to another. It provides an easy-to-use interface for asynchronous type mapping, with a focus on performance and simplicity.
 
 ## Key Features:
 
