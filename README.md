@@ -70,6 +70,4 @@ TMapper distinguishes itself from other mapping libraries, such as AutoMapper, b
 
 Give TMapper a try and experience the power of strongly-typed, asynchronous mapping in your .NET projects!
 
-For more information, please visit the [TMapper GitHub repository](https://github.com/yourusername/TMapper).
-
-**Note:** Don't forget to replace "yourusername" in the GitHub repository link with your actual GitHub username or organization name.
+For more information, please visit the [TMapper GitHub repository](https://github.com/jonathanthornander/TMapper).
