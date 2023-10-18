@@ -1,5 +1,7 @@
 # TMapper NuGet Package
 
+![apple-touch-icon](https://github.com/JonathanThornander/TMapper/assets/43991450/adb3cd8d-7b79-4c40-867b-7573a1f6cadf)
+
 **Overview:**
 
 TMapper is a lightweight, strongly-typed mapping library designed to simplify the process of mapping objects from one type to another. It provides an easy-to-use interface for asynchronous type mapping, with a focus on performance and simplicity.
